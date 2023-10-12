@@ -42,23 +42,28 @@ In this assignment, you will create a basic Java
 
 
 
-### Register 
+### Login 
 
-![](screenshots/register.png)
+![](screenshots/dangnhap.png)
 
 on click login it shows main page
 ### Main page
-![](screenshots/mainpage.png)
-### Add Task
-![](screenshots/addTask.png)
-### Add Task Sucess
-![](screenshots/addsuccess.png)
-### Edit Task
-![](screenshots/editTask.png)
-### Edit Task success
-![](screenshots/editSuccess.png)
-### Delete Task
-![](screenshots/deleteTask.png)
-If you click SIGN OUT, you will return to the login page
-### Return Login page
-![](screenshots/login.png)
+![](screenshots/manhinhchinh.png)
+### Add Emloyment
+![](screenshots/addemp.png)
+### update Eloyment
+![](screenshots/Sua.png)
+### roomm manager
+![](screenshots/roomanager.png)
+### Detail
+![](screenshots/chitiet.png)
+### About
+![](screenshots/About.png)
+### Call
+![](screenshots/quayso.png)
+### Delete
+![](screenshots/manhinhchinh.png)
+### Login language vietnam
+![](screenshots/Loginviet.png)
+### Main page language vietnam
+![](screenshots/mainviet.png)
