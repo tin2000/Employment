@@ -49,8 +49,12 @@ In this assignment, you will create a basic Java
 on click login it shows main page
 ### Main page
 ![](screenshots/manhinhchinh.png)
+### Add Emloyment
+![](screenshots/addemp.png)
 ### update Eloyment
 ![](screenshots/Sua.png)
+### roomm manager
+![](screenshots/roomanager.png)
 ### Detail
 ![](screenshots/chitiet.png)
 ### About
