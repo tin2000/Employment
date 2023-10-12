@@ -55,6 +55,8 @@ on click login it shows main page
 ![](screenshots/Sua.png)
 ### roomm manager
 ![](screenshots/roomanager.png)
+### roomm manager
+![](screenshots/editroom.png)
 ### Detail
 ![](screenshots/chitiet.png)
 ### About
