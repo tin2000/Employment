@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Nhân Viên</string>
+    <string name="todo">TODO</string>
+    <string name="ma_phong">Mã phòng</string>
+    <string name="ten">Tên</string>
+    <string name="sua">Sửa</string>
+    <string name="xoa">Xóa</string>
+    <string name="them_nhan_vien">Thêm Nhân Viên</string>
+    <string name="qlp">Quản Lý Phòng</string>
+    <string name="ListNv">Danh Sách Nhân Viên</string>
+    <string name="chup_anh">Chụp Ảnh</string>
+    <string name="chon_anh">Chọn Ảnh</string>
+    <string name="my_name">Nguyễn Đặng Tín</string>
+    <string name="l_o_p">Lớp: D19_TH01</string>
+    <string name="mssv">MSSV: DH51805764</string>
+    <string name="my_mail">dangtinanother@gmail.com</string>
+    <string name="phone">SĐT:</string>
+    <string name="id_phone">0865463165</string>
+    <string name="detail">Chi Tiết</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="infor">Thông Tin Cá Nhân</string>
+    <string name="Wc">Ứng Dụng</string>
+    <string name="STC">Đăng Nhập</string>
+    <string name="UserN">Tài Khoản</string>
+    <string name="PassW">Mật Khẩu</string>
+    <string name="Rmb">Ghi Nhớ TK </string>
+    <string name="Go">Đăng Nhập</string>
+    <string name="CreateAC">Tạo Tài Khoản Mới</string>
+    <string name="full_name_add">Họ Tên</string>
+    <string name="room_add">Phòng</string>
+    <string name="type_add">Loại NV</string>
+    <string name="adress_add">Địa Chỉ</string>
+    <string name="add_add">Thêm</string>
+    <string name="back_add">Trở Về</string>
+    <string name="room_code">Mã Phòng</string>
+    <string name="room_name">Tên Phòng</string>
+    <string name="detail_em">Thông Tin Chi Tiết</string>
+    <string name="l_room">Danh Sách Phòng</string>
+    <string name="them_p">Thêm Phòng</string>
+    <string name="save">Lưu</string>
+    <string name="Room_n">Tên Phòng</string>
+
+
+
+</resources>

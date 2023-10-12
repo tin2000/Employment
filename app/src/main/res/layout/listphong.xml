@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/txtIDPhong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID Phong: "
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="10pt" />
+
+    <TextView
+        android:id="@+id/txtTenPhong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ten Phong"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="12pt" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/blue"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnSuaPhong"
+            android:layout_width="50pt"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="5pt"
+            android:backgroundTint="@color/green"
+            android:text="@string/sua" />
+
+        <Button
+            android:id="@+id/btnXoaPhong"
+            android:layout_width="50pt"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="5pt"
+            android:backgroundTint="@color/green"
+            android:text="@string/xoa" />
+    </LinearLayout>
+
+
+</LinearLayout>

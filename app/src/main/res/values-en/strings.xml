@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Employsee Manager</string>
+    <string name="todo">TODO</string>
+    <string name="ma_phong">ID Room</string>
+    <string name="ten">Name</string>
+    <string name="sua">Edit</string>
+    <string name="xoa">Delete</string>
+    <string name="them_nhan_vien">Add Employ</string>
+    <string name="qlp">Room Manager</string>
+    <string name="ListNv">List Of Employee</string>
+    <string name="chup_anh">Take a photo</string>
+    <string name="chon_anh">Choose a photo</string>
+    <string name="my_name">Nguyễn Đặng Tín</string>
+    <string name="l_o_p">Class: D19_TH01</string>
+    <string name="mssv">ID: DH51805764</string>
+    <string name="my_mail">dangtinanother@gmail.com</string>
+    <string name="phone">PhoneN:</string>
+    <string name="id_phone">0865463165</string>
+    <string name="detail">Detail</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="infor">Information</string>
+    <string name="Wc">App</string>
+    <string name="STC">Sign in</string>
+    <string name="UserN">UserName</string>
+    <string name="PassW">Password</string>
+    <string name="Rmb">Remember me</string>
+    <string name="Go">Go</string>
+    <string name="CreateAC">Create account</string>
+    <string name="full_name_add">FullName</string>
+    <string name="room_add">Room</string>
+    <string name="type_add">Type of Em</string>
+    <string name="adress_add">Adress</string>
+    <string name="add_add">Add</string>
+    <string name="back_add">Back</string>
+    <string name="room_code">Room code</string>
+    <string name="room_name">Room Name</string>
+    <string name="detail_em">Detail Employ</string>
+    <string name="l_room">Room List</string>
+    <string name="them_p">Room Add</string>
+    <string name="save">Save</string>
+    <string name="Room_n">Room Name</string>
+
+
+
+</resources>

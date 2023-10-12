@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/blue"
+        android:weightSum="2">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20pt"
+            android:padding="2pt"
+            android:textAlignment="center"
+            android:textSize="10pt"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:background="@color/blue"
+            android:text="@string/l_room"/>
+        <Button
+            android:id="@+id/btnThemP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:backgroundTint="@color/green"
+            android:text="@string/them_p"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="5pt" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1pt"
+            android:background="@color/gray"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="5pt"
+        android:id="@+id/lvPhong"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:orientation="horizontal"
+        android:background="@color/blue"
+        android:weightSum="2">
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
